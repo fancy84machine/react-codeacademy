@@ -6,7 +6,7 @@ const owl = {
   src: 'https://s3.amazonaws.com/codecademy-content/courses/React/react_photo-owl.jpg'
 };
 
-// Component class starts here:
+
 class Owl extends React.Component {
   render() {
     return (
